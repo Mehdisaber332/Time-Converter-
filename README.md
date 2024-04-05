@@ -10,3 +10,6 @@ This is a simple web application built with Flask that allows users to convert t
 - Convert seconds to minutes
 
 ## Usage
+Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/time-converter.git
